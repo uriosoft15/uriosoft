@@ -3,7 +3,7 @@
 <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
-		<title>UrioSofT | Home</title>
+		<title>evance | Home</title>
 		<meta name="description" content="uriosoft a Bootstrap-based,">
 		<meta name="author" content="htmlcoder.me">
 
